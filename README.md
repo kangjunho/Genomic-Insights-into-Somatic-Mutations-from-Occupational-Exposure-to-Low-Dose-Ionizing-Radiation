@@ -1,4 +1,4 @@
-# Genomic-Insights-into-Somatic-Mutations-from-Occupational-Exposure-to-Low-Dose-Ionizing-Radiation
+# Genomic Insights into Somatic Mutations from Occupational Exposure to Low-Dose Ionizing Radiation
 
 # Somatic Mutation Analysis Pipeline
 
